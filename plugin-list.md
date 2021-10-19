@@ -3,3 +3,4 @@
 paginator: https://github.com/sverrirs/jekyll-paginate-v2/tree/master/examples/01-typicalblog
 
 `bundle exec jekyll serve`
+https://github.com/sharadcodes/geekyll-starter-blog
